@@ -27,6 +27,20 @@
 .App-link {
   color: #61dafb;
 }
+fieldset{
+  border: 1px solid black;
+  width: 900px;
+  margin:auto;
+}
+input{
+  width: 250px;
+}
+table {
+  margin: auto
+}
+th, td {
+  border-bottom: 1px solid #ddd;
+}
 
 @keyframes App-logo-spin {
   from {
